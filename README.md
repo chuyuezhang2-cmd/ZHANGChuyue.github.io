@@ -3,7 +3,7 @@
 ![Portfolio Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=ZHANG+Chuyue+Portfolio)  
 *(Replace the image link above with a real screenshot of your deployed site)*
 
-**Live Demo:** [https://chuyuezhang2-cmd.github.io/your-repo-name](https://chuyuezhang2-cmd.github.io/your-repo-name)  
+**Live Demo:** [https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io](https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io)  
 
 ---
 
@@ -66,6 +66,6 @@ The website strictly follows the course requirements of the **Final Individual P
 
 ## 📬 Contact Me
 
-Email: chuyuezhang2@ln.hk
-LinkedIn: linkedin.com/in/chuyue-zhang
-GitHub: github.com/chuyuezhang2-cmd
+- Email: chuyuezhang2@ln.hk
+- LinkedIn: linkedin.com/in/chuyue-zhang
+- GitHub: github.com/chuyuezhang2-cmd
