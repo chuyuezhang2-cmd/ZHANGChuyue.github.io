@@ -1,7 +1,7 @@
 # ZHANG Chuyue | Personal Portfolio Website
 
-![Portfolio Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=ZHANG+Chuyue+Portfolio)  
-*(Replace the image link above with a real screenshot of your deployed site)*
+**👉 Live Portfolio Website**  
+[🔗 Visit My Resume Website](http://localhost:63342/PyCharm/index.html?_ijt=is173kufnlpgj762eur12a7bd5)
 
 **Live Demo:** [https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io](https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io)  
 
@@ -67,5 +67,5 @@ The website strictly follows the course requirements of the **Final Individual P
 ## 📬 Contact Me
 
 - Email: chuyuezhang2@ln.hk
-- LinkedIn: linkedin.com/in/chuyue-zhang
-- GitHub: github.com/chuyuezhang2-cmd
+- LinkedIn: https://www.linkedin.com/in/joey-zhang-095272388/
+- GitHub: https://github.com/chuyuezhang2-cmd
