@@ -1,7 +1,7 @@
 # ZHANG Chuyue | Personal Portfolio Website
 
 **👉 Live Portfolio Website**  
-[🔗 Visit My Resume Website](https://chuyuezhang2-cmd.github.io/ZHANGChuyue.github.io)
+[🔗 Visit My Resume Website](https://chuyuezhang2-cmd.github.io)
 
 **Live Demo:** [https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io](https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io)  
 
