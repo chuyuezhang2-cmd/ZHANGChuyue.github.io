@@ -1,7 +1,7 @@
 # ZHANG Chuyue | Personal Portfolio Website
 
 **👉 Live Portfolio Website**  
-[🔗 Visit My Resume Website](http://localhost:63342/PyCharm/index.html?_ijt=is173kufnlpgj762eur12a7bd5)
+[🔗 Visit My Resume Website](https://chuyuezhang2-cmd.github.io/ZHANGChuyue.github.io)
 
 **Live Demo:** [https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io](https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io)  
 
