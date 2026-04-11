@@ -1,7 +1,7 @@
 # ZHANG Chuyue | Personal Portfolio Website
 
 **👉 Live Portfolio Website**  
-[🔗 Visit My Resume Website](https://chuyuezhang2-cmd.github.io)
+[🔗 Visit My Resume Website](http://localhost:63342/PyCharm/index.html?_ijt=is173kufnlpgj762eur12a7bd5)
 
 **Live Demo:** [https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io](https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io)  
 
@@ -59,7 +59,7 @@ The website strictly follows the course requirements of the **Final Individual P
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chuyuezhang2-cmd/your-repo-name.git
+   git clone https://github.com/chuyuezhang2-cmd/ZHANGChuyue.github.io.git
 2. Open index.html in your browser (no server needed).
 
 ---
